@@ -13,4 +13,4 @@ This project has two parts.
 
 A PDF (with visuals) was added to the repo, explaining the way we implemented every part using Object-oriented programming, the data sets used and conclusions.
 
-simply run part1 inorder to run our algorithm implementation, or part2 inorder to run our take on what can be change in order to improve it.
+Simply run part1 inorder to run our algorithm implementation, or part2 inorder to run our take on what can be change in order to improve it.
