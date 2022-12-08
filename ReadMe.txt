@@ -1,7 +1,7 @@
 Data Analyses Project implemented by Tal Marciano and Alon Ben Melech.
 
 **This Project was written as part of Sivan Savato Ben-Gurion Course 'Subjects in data analysis'.
-   I do not claim any copywrite rights to my self. only showing our take and implementaion.
+  I do not claim any copywrite rights to my self. only showing our take and implementaion.
 
 In this Project, we implemented a machine learning algorithm for a multi-class classifier using explanation and feedback to learn and improve.
 The Algorithm that we implemented was created by Dr. Sivan Sabato and is thoroughly explained in her paper:
